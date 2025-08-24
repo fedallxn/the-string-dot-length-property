@@ -25,8 +25,8 @@ let lengthTwo = stringTwo.length;   // Length of stringTwo
 let lengthThree = stringThree.length; // Length of stringThree
 
 // Your code here
-console.log("There are " + lengthOne + " characters in " + stringOne);
-console.log("There are " + lengthTwo + " characters in " + stringTwo);
-console.log("There are " + lengthThree + " characters in " + stringThree);
+console.log("There are " + lengthOne + " characters in " + stringOne); //There are 15 characters in Coding Bootcamp
+console.log("There are " + lengthTwo + " characters in " + stringTwo);//There are 10 characters in JavaScript
+console.log("There are " + lengthThree + " characters in " + stringThree);//There are 0 characters in
 
 
